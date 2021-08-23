@@ -1,0 +1,24 @@
+table{
+    background-color: bisque;
+}
+.name{
+    color: rgb(69, 134, 3);
+}
+.rd{
+    color: red;
+}
+.bl{
+    color: rgb(3, 180, 180);
+}
+.bld{
+    color: rgb(80, 80, 247);
+}
+.blk{
+    color: black;
+}
+.yel{
+    color: rgb(182, 182, 5);
+}
+.br{
+    color: brown;
+}
